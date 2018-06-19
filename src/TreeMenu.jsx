@@ -41,7 +41,7 @@ var TreeMenu = createReactClass({
     checkboxFactory: PropTypes.func,
     sort: PropTypes.oneOfType([
       PropTypes.bool,
-      PropTypes.function
+      PropTypes.func
     ])
   },
 
