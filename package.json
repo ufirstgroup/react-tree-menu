@@ -17,7 +17,8 @@
     "create-react-class": "^15.6.3",
     "invariant": "^2.1.1",
     "lodash": "^3.2.0",
-    "object-assign": "^2.0.0"
+    "object-assign": "^2.0.0",
+    "prop-types": "^15.6.1"
   },
   "peerDependencies": {
     "react": ">=0.14.0"
